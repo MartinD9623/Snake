@@ -1,0 +1,8 @@
+# Ignoriere den .idea-Ordner
+.idea/
+
+# Ignoriere den out-Ordner
+out/
+
+# Ignoriere die Snake.iml-Datei
+Snake.iml
