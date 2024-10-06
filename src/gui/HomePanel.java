@@ -33,7 +33,7 @@ public class HomePanel extends JPanel{
         buttonExit.setBounds(200,250,200,50);
         homePanel.add(buttonExit);
 
-        snake = new ImageIcon(getClass().getResource("snake.jpg"));
+        snake = new ImageIcon(getClass().getResource("snake.jpeg"));
         labelSnake = new JLabel(snake);
         labelSnake.setBounds(0,0,MainFrame.width,MainFrame.height);
         homePanel.add(labelSnake);
