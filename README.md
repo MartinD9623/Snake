@@ -40,3 +40,6 @@
 ## License
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+### Images
+
+All images in this repository are protected and are not available for public use. For inquiries about usage, please use the GitHub Issues feature to reach out.
