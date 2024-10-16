@@ -21,7 +21,8 @@
 - Choose the difficulty level: 
   - **Well Done** 
   - **Medium** 
-  - **Rare Bleu** (the hardest difficulty).
+  - **Rare**
+  - **Bleu** (the hardest difficulty).
 - After selecting the options, click "Continue" to start the game.
 - Control the snake using the **WASD** keys:
   - **W**: Up
