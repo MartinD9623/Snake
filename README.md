@@ -7,7 +7,7 @@
    - Download the repository from GitHub to your local machine.
 
      ```bash
-     git clone https://github.com/yourusername/snake-game.git
+     git clone https://github.com/do-martin/Snake.git
      ```
 
 2. **Navigate to the Main Class**:
